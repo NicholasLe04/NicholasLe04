@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nicholas 🚀
+
+[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nicholasle.me)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholasle04)
+
+
+I enjoy learning about ✨ cool things ✨ and how to make them 🪐🔥
+
+<a href="https://google.com"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasle04&size_weight=0&count_weight=1&theme=transparent&count=3" alt="langs" height="220"/></a>
+<a href="https://google.com"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicholasle04&theme=transparent" alt="stats" height="220"/></a>
 
 <!--
 **NicholasLe04/NicholasLe04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
