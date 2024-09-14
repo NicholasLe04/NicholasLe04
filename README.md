@@ -1,7 +1,6 @@
 ### Hi there, I'm Nicholas 🚀
 
-[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nicholasle.me)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicholasle04)
+[Check out my website! ](https://nicholasle.me)
 
 
 <a href="https://google.com"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicholasle04&theme=transparent" alt="stats" height="220"/></a>
